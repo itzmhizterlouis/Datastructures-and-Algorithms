@@ -10,5 +10,4 @@ public class Main {
         Numbers numbers = new Numbers(list);
         System.out.println(numbers.search(10000000));
         System.out.println(numbers.normalSearch(10000000));
-    }
 }
